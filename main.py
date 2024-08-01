@@ -5,6 +5,12 @@ import yfinance as yf
 import datetime as dt
 
 
+# To-DO : 
+# [feat] Add UI with streamlit and host
+# [feat] Add serach option
+# [feat] Add more options and add better labels on plot
+
+
 ticker = 'GOOG'
 
 start = dt.datetime(2023, 1, 1)
@@ -79,8 +85,8 @@ ax2.set_facecolor('black')
 ax2.tick_params(axis='x', color='white')
 ax2.tick_params(axis='y', color='white')
 
-plt.show()
-# plt.savefig('meta_rsi_chart.png')  # Save the figure
-# plt.close()  # Close the plot to free up memory
+# plt.show()
+plt.savefig('goog_rsi_chart.png')  # Save the figure
+plt.close() 
 
 
