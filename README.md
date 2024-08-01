@@ -38,7 +38,7 @@ Through this project, I have gained insights into:
 To run this project, you need to have Python installed along with the following libraries:
 
 ```sh
-pip install pandas pandas_datareader matplotlib finance
+pip install pandas pandas_datareader matplotlib yfinance
 ```
 
 ## Example
