@@ -1,3 +1,7 @@
+# [Update 1]
+- I am currently working on adding more features and a GUI. Likely to be completed by 1st September.
+- I will be integrating portfolio visualization tools, stock screener & F&O indicators.
+
 # RSI Implementation with Python
 
 This project is a simple implementation of RSI (Relative Strength Index) analysis using Python. The script fetches historical stock data for a given ticker symbol, calculates the RSI, and plots both the adjusted close price and the RSI on a graph. This project demonstrates basic data manipulation, calculation, and visualization techniques in Python.
