@@ -1,5 +1,5 @@
 # [Update 1]
-- I am currently working on adding more features and a GUI. Likely to be completed by 1st September.
+- I am currently working on adding more features and a GUI. Likely to be completed by 5th September.
 - I will be integrating portfolio visualization tools, stock screener & F&O indicators.
 
 # RSI Implementation with Python
